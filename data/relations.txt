@@ -1,0 +1,16 @@
+http://dbpedia.org/ontology/director 0
+http://dbpedia.org/ontology/writer 2
+http://dbpedia.org/ontology/starring 4
+http://dbpedia.org/ontology/creator 6
+http://purl.org/dc/terms/subject 8
+http://dbpedia.org/ontology/musicComposer 10
+http://dbpedia.org/ontology/country 12
+http://dbpedia.org/property/story 14
+http://dbpedia.org/property/studio 16
+http://dbpedia.org/ontology/genre 18
+http://dbpedia.org/ontology/cinematography 20
+http://dbpedia.org/ontology/distributor 22
+http://dbpedia.org/ontology/spouse 24
+http://dbpedia.org/ontology/relative 25
+ratedGoodBy 26
+givenGoodRatingTo 27
