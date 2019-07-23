@@ -1,0 +1,9 @@
+Category	0
+Company	1
+Country	2
+Genre	3
+Movie	4
+Person	5
+User	6
+#PAD_TOKEN	7
+#UNK_ENTITY_TYPE	8
