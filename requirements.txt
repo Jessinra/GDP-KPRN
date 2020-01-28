@@ -6,4 +6,4 @@ Keras==2.2.4
 tensorflow_gpu==1.14.0
 ipython==7.7.0
 scikit_learn==0.21.3
-tensorflow==1.14.0
+tensorflow==1.15.2
